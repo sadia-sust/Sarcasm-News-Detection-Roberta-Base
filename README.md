@@ -1,4 +1,5 @@
 # Sarcasm News Detection Using Roberta-Base
+This is a class project of CS 5642 (Advanced NLP).
 
 Here, I would like to solve a sentence classification problem. The model will classify a given sentence as sarcastic or non-sarcastic. Here, the sentence is a news headline.
 
