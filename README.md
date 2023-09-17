@@ -13,6 +13,7 @@ I was very interested in doing a project with sentiment analysis. So, I was look
 # Dataset Link: 
 https://huggingface.co/datasets/raquiba/Sarcasm_News_Headline
 
+# LLM Model
 I have used an encoder-only ‘roberta-base’ model. I have experimented with a couple of models, such as bert-base, etc. I have received better results with roberta-base model. Also, I have read some research papers which are claiming that ‘roberta-base’ model performs better than others for this kind of problems. So, I was curious to see how it performs.
 
 # Model Overall Quantitative Performance Measure: 
